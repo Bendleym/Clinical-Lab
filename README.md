@@ -78,7 +78,8 @@ A preconfigured spare workstation was deployed to restore functionality quickly.
 
 📸 **Screenshot — Replacement Workstation Ready**
 
-![Replacement workstation](screenshots/replacement_workstation.png)
+<img width="1536" height="1024" alt="Designer (1)" src="https://github.com/user-attachments/assets/a41eb471-bec3-4d62-b31a-31d655e8ff42" />
+
 
 ---
 
@@ -95,7 +96,7 @@ The failed workstation was removed from service for safety and investigation.
 
 📸 **Screenshot — Device Isolated**
 
-![Isolated workstation](screenshots/device_isolated.png)
+<img width="1536" height="1024" alt="Designer (2)" src="https://github.com/user-attachments/assets/d5c70fc6-da78-4f28-a86f-e0b286fb8cd8" />
 
 ---
 
@@ -115,7 +116,7 @@ Accurate documentation is critical in healthcare IT environments.
 
 📸 **Screenshot — Incident Record**
 
-![Incident documentation](screenshots/incident_report.png)
+<img width="1536" height="1024" alt="Designer (3)" src="https://github.com/user-attachments/assets/044c160f-cfb3-44ab-abd7-9face9c4741b" />
 
 ---
 
