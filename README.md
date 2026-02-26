@@ -60,7 +60,8 @@ The user reports:
 
 📸 **Screenshot — Initial Device Failure**
 
-![Frozen workstation](screenshots/frozen_workstation.png)
+![Frozen workstation](<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/63561af7-9b6c-4880-be8a-2eace91b5849" />)
+
 
 ---
 
